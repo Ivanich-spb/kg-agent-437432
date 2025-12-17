@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.30.0
+networkx>=3.0
+rdflib>=6.0.0
+sentencepiece>=0.1.96
+python-dotenv>=1.0.0
+typing-extensions>=4.0.0
